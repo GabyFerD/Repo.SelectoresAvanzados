@@ -1,0 +1,28 @@
+body {
+  background: black;
+  color: white;
+}
+
+/* Selector de descendiente --> Con espacio. En este caso se seleccionan todos los LI que esten dentro del DIV*/
+
+/* div li {
+  color: crimson;
+} */
+
+/* > Selector de Hijo */
+
+/* div > p {
+  color: crimson;
+} */
+
+/* ~ Selector general de hermanos */
+
+/* h1 ~ p {
+  color: crimson;
+} */
+
+/* + Selector de hermanos adyacentes */
+
+/* h1 + p {
+  color: crimson;
+} */
